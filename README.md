@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+<img src="https://github.com/Mirzaazmath/stacked_chat_flutter/blob/main/assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20-%202022-11-18%20at%2016.16.10.png" height="400">
 
 This project is a starting point for a Flutter application.
 
